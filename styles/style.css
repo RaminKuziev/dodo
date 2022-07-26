@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap");
+@import url(./header.css);
+@import url(./reset.css);
+@import url(./new__popular.css);
+@import url(./pizza.css);
+
+body {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  background: #fff;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1060px;
+  box-sizing: content-box;
+}
+
+img {
+  display: block;
+}
+
+h4 {
+font-family: "Nunito", Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 600;
+line-height: 27px;
+text-align: left;
+}

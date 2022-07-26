@@ -1,0 +1,63 @@
+.pizza_title {
+  margin: 70px 0 40px 0;
+}
+
+.menu__pizza {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.down_cart {
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+}
+
+.down_cart p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: left;
+  color: #000000;
+}
+
+.pizza__card {
+  width: 250px;
+}
+
+.pizza__card p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: left;
+  color: #73798c;
+  }
+
+.pizza__card h4 {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.baget {
+  width: 120px;
+  height: 40px;
+  background: #f96900;
+  color: #fff;
+  border-radius: 1000px;
+  border: 0;
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.baget:hover {
+  color: #f96900;
+  background-color: #fff0e6;
+  cursor: pointer;
+}
