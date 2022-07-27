@@ -3,6 +3,10 @@
 @import url(./reset.css);
 @import url(./new__popular.css);
 @import url(./pizza.css);
+@import url(./combo.css);
+@import url(./beverages.css);
+@import url(./desserts.css);
+@import url(./snacks.css);
 
 body {
   font-family: "Nunito", Arial, Helvetica, sans-serif;

@@ -1,0 +1,11 @@
+.beverages{
+    display: flex;
+    gap: 20px;
+}
+
+.beverages__down__card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
