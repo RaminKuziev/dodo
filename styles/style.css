@@ -7,7 +7,7 @@
 @import url(./beverages.css);
 @import url(./desserts.css);
 @import url(./snacks.css);
-
+@import url(./footer.css);
 body {
   font-family: "Nunito", Arial, Helvetica, sans-serif;
   background: #fff;
@@ -30,3 +30,4 @@ font-weight: 600;
 line-height: 27px;
 text-align: left;
 }
+

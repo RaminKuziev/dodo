@@ -1,0 +1,144 @@
+footer {
+  padding-top: 50px;
+  padding-bottom: 36px;
+  background-color: #464c55;
+}
+.foo__all {
+  display: flex;
+}
+
+.foo__card__1 {
+  width: 137px;
+  margin-right: 43px;
+}
+
+.foo__card__2 {
+  width: 147px;
+  margin-right: 33px;
+}
+
+.foo__card__3 {
+  width: 154px;
+  margin-right: 26px;
+}
+
+.foo__card__4 {
+  width: 166px;
+  margin-right: 78px;
+}
+
+.foo__card__5 {
+  text-align: right;
+}
+.foo__img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 5px;
+}
+
+.foo__card__1 h3,
+.foo__card__2 h3,
+.foo__card__3 h3,
+.foo__card__4 h3 {
+  margin-bottom: 10px;
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.foo__card__1 p,
+.foo__card__2 p,
+.foo__card__3 p,
+.foo__card__4 p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.foo__img {
+  margin-bottom: 29px;
+}
+
+.call__free {
+  margin-top: 6px;
+  margin-bottom: 26px;
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #ffffff;
+}
+
+.number {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: right;
+  color: #ffffff;
+}
+
+.foo__card__5 a {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #ffffff;
+}
+
+.foo__all__2 {
+  display: flex;
+  padding-top: 131px;
+  border-bottom: 1px solid rgba(255,255,255, 0.2);
+}
+
+.foo__card__6 {
+  width: 299px;
+  padding-right: 156px;
+}
+
+.foo__card__7 {
+  width: 241px;
+}
+
+h4 {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: left;
+  padding-bottom: 12px;
+  color: #ffffff;
+}
+
+.foo__card__6 p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  padding-bottom: 40px;
+  color: #ffffff;
+}
+
+.foo__card__7 p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  padding-bottom: 40px;
+  color: #ffffff;
+}

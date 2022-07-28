@@ -1,11 +1,56 @@
-.beverages{
-    display: flex;
-    gap: 20px;
+.beverages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-bottom: 134px;
 }
 
 .beverages__down__card {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
 }
+
+.beverages__h2 {
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
+
+.beverages__card {
+  width: 250px;
+}
+
+.beverages__card h2 {
+  width: 201px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+}
+
+.beverages__card p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: left;
+  color: #73798c;
+}
+
+.beverages__down__card p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: left;
+  color: #000000;
+}
+
+.p__beverages__1 {
+  margin-bottom: 66px;
+}
+
