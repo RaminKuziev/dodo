@@ -8,6 +8,7 @@
 @import url(./desserts.css);
 @import url(./snacks.css);
 @import url(./footer.css);
+
 body {
   font-family: "Nunito", Arial, Helvetica, sans-serif;
   background: #fff;
@@ -24,10 +25,17 @@ img {
 }
 
 h4 {
-font-family: "Nunito", Arial, Helvetica, sans-serif;
-font-size: 20px;
-font-weight: 600;
-line-height: 27px;
-text-align: left;
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
 }
 
+button {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+}
