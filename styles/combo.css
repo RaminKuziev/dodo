@@ -1,10 +1,11 @@
 .combo__all {
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
 }
 
 .combo__card {
-  width: 600px;
+  width: 250px;
 }
 
 .combo__card h2 {
@@ -24,13 +25,24 @@
   line-height: 19px;
   text-align: left;
   color: #73798c;
+  max-width: 235px;
+}
+
+.combo__card__down p {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
 }
 
 .combo__card__down {
+  margin-top: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: auto;
 }
 
 .baget__2 {
